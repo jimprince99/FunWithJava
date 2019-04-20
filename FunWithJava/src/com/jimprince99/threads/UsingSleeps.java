@@ -1,5 +1,6 @@
 package com.jimprince99.threads;
 
+import java.util.concurrent.TimeUnit;
 
 /**
  * loop gets slower over each iteration
@@ -14,6 +15,8 @@ public class UsingSleeps {
 			System.out.println(loop);
 			Thread.sleep(loop*100);
 		}
+		
+		TimeUnit.SECONDS.sleep(2);
 
 	}
 
