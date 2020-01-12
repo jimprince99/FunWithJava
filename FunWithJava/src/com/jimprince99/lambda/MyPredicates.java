@@ -24,8 +24,7 @@ public class MyPredicates {
 		strings.add("three");
 		strings.add("four");
 		
-		//List<String> newStrings = strings.sort();
-		
+		// sort strings based on a compare of their lengths
 		Collections.sort(strings, c);
 		System.out.println(strings);
 		
