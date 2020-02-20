@@ -1,3 +1,6 @@
+package com.jimprince99.doublebraceinitialisation;
+
+
 import java.util.HashSet;
 import java.util.Set;
 
