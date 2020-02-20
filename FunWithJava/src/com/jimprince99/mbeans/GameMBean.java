@@ -7,6 +7,7 @@ public interface GameMBean {
     public String getPlayerName();
  
     public void setPlayerName(String playerName);
+    
     public void playerName(String playerName);
  
 }
