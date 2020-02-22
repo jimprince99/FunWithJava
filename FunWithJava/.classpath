@@ -4,5 +4,13 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/dev/externalJars/h2db/h2-1.4.199.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/mockito/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/log4j/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/log4j/slf4j-ext-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/log4j/slf4j-jdk14-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/log4j/slf4j-migrator-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/jackson/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/jackson/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/dev/externalJars/jackson/jackson-databind-2.10.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

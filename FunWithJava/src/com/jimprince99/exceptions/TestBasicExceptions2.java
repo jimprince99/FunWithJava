@@ -34,13 +34,13 @@ class TestBasicExceptions2 {
 	@Test
 	void test1001() throws Exception{
 
-		MyCheckedException myException = assertThrows(MyCheckedException.class, () -> be2.GenerateMyCheckedException());
+		MyCheckedException myException = assertThrows(MyCheckedException.class, () -> be2.generateMyCheckedException());
 		assertTrue(myException.getMessage().contains("jim"));
 	}
 
 	@Test
 	void test1002() {
-		MyRuntimeException myException = assertThrows(MyRuntimeException.class, () -> be2.GenerateMyRuntimeException());
+		MyRuntimeException myException = assertThrows(MyRuntimeException.class, () -> be2.generateMyRuntimeException());
 		assertTrue(myException.getMessage().contains("jim2"));
 	}
 	

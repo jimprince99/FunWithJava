@@ -7,12 +7,12 @@ public class BasicExceptions2 {
 
 	}
 	
-	public void GenerateMyCheckedException() throws MyCheckedException {
+	public void generateMyCheckedException() throws MyCheckedException {
 		throw new MyCheckedException("jim");
 		
 	}
 	
-	public void GenerateMyRuntimeException() {
+	public void generateMyRuntimeException() {
 		throw new MyRuntimeException("jim2");
 	}
 
