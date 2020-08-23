@@ -1,6 +1,7 @@
 package com.jimprince99.arrays;
 
-import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Stream;
 
 public class Arrays2 {
@@ -25,7 +26,13 @@ public class Arrays2 {
 		for (String x : array2) {
 			System.out.println(x);
 		}
+				
+		List<Integer> arrayList3 = Arrays.asList(array);
+		arrayList3.forEach(element -> System.out.print(element + ", "));
 		
+		
+		
+				
 
 		
 		

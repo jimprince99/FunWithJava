@@ -5,10 +5,12 @@ com.jimprince99.binarytree
 com.jimprince99.bitsets
 com.jimprince99.doublebraceinitialisation
 com.jimprince99.exceptions
+com.jimprince99.functionExamples
 com.jimprince99.generalstuff
 com.jimprince99.h2database
 com.jimprince99.json
 com.jimprince99.lambda
+com.jimprince99.localDate
 com.jimprince99.mbeans
 com.jimprince99.mockito
 com.jimprince99.patternmatcher
