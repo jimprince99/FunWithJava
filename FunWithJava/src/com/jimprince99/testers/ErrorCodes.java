@@ -1,0 +1,11 @@
+package com.jimprince99.testers;
+
+public enum ErrorCodes {
+	SUCCESS,
+	TESTER_IS_NULL,
+	CMD_ID_NULL,
+	PROCESS_IS_NULL,
+	PROCESS_RETURNED_ERROR_EXIT,
+	FAILED_TO_CREATE_COMMAND,
+
+}
