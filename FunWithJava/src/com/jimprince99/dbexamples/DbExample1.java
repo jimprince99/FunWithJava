@@ -33,8 +33,9 @@ public class DbExample1 {
 		
 		
 		
-		// TODO Auto-generated method stub
+		rs.close();
 
+		conn.close();
 	}
 
 }

@@ -30,7 +30,8 @@ public class DbExample2 {
 		}
 
 
-				
+		rs.close();
+		conn.close();	
 				
 	}
 

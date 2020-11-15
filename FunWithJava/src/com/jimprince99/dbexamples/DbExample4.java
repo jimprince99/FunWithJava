@@ -36,7 +36,8 @@ public class DbExample4 {
 		}
 
 				
-				
+		rs.close();
+		conn.close();		
 	}
 
 }
