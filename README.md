@@ -1,2 +1,2 @@
 # FunWithJava
-Fun with Java technologies
+Fun with Java technologies.
